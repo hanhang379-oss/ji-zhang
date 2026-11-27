@@ -18,7 +18,7 @@
 
 ## 运行
 
-这是 Muse 空间（Space）的源代码，需要在 Muse 的 Space 运行环境中使用，在 Muse 之外不能直接跑起来，因为它依赖 Muse 提供的 `@hatch/space-sdk`（`package.json` 里的本地文件依赖）。
+这是 Muse 空间（Space）的源代码，需要在 Muse 的 Space 运行环境中使用，依赖 Muse 提供的 `@hatch/space-sdk`（`package.json` 里的本地文件依赖）。
 
 常用命令：
 
